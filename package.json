@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "java": "^0.12.2"
+  },
+  "name": "bte-dynmaxion",
+  "version": "1.0.0",
+  "description": "A package that uses the BTE Dynmaxion projection for coordinate conversion and more!",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XboxBedrock/bte-dynmaxion.git"
+  },
+  "author": "XboxBedrock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XboxBedrock/bte-dynmaxion/issues"
+  },
+  "homepage": "https://github.com/XboxBedrock/bte-dynmaxion#readme"
+}
