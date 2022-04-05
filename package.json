@@ -3,9 +3,10 @@
     "java": "^0.12.2"
   },
   "name": "bte-dynmaxion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that uses the BTE Dynmaxion projection for coordinate conversion and more!",
   "main": "index.js",
+  "typings": "index.d.ts",
   "devDependencies": {},
   "repository": {
     "type": "git",
